@@ -1,0 +1,20 @@
+{
+  "name": "miyasumainbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Mahiro",
+  "license": "ISC",
+  "dependencies": {
+    "discord-gamecord": "^1.1.4",
+    "discord-music-player": "^8.1.0",
+    "discord-rock-paper-scissor": "^1.0.0",
+    "discord.js": "^13.1.0",
+    "discord.tictactoegame": "^1.1.2",
+    "discordjs-button-pagination": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "random-animals-api": "^1.2.6",
+    "random-memes": "^3.1.0",
+    "weather-api-data": "^1.0.8"
+  }
+}
